@@ -1,0 +1,14 @@
+D:\ENC&DNC_C#\main_logic\main_logic\bin\Debug\net8.0\main_logic.exe
+D:\ENC&DNC_C#\main_logic\main_logic\bin\Debug\net8.0\main_logic.deps.json
+D:\ENC&DNC_C#\main_logic\main_logic\bin\Debug\net8.0\main_logic.runtimeconfig.json
+D:\ENC&DNC_C#\main_logic\main_logic\bin\Debug\net8.0\main_logic.dll
+D:\ENC&DNC_C#\main_logic\main_logic\bin\Debug\net8.0\main_logic.pdb
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.AssemblyInfoInputs.cache
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.AssemblyInfo.cs
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.csproj.CoreCompileInputs.cache
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.dll
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\refint\main_logic.dll
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.pdb
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\main_logic.genruntimeconfig.cache
+D:\ENC&DNC_C#\main_logic\main_logic\obj\Debug\net8.0\ref\main_logic.dll
